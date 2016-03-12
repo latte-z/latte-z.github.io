@@ -11,7 +11,7 @@ body {
 }
 
 .site-footer a {
-    font-size: 13px;
+    font-size: 14px;
 	display: inline-block;
 	text-align: center;
 	text-decoration: none;
@@ -23,7 +23,7 @@ body {
 
 .site-footer {
     font-family: 'Architects Daughter';
-    font-size: 13px;
+    font-size: 14px;
     position: absolute;
     bottom: 2%;
     left: 46.5%;
